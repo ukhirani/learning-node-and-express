@@ -64,9 +64,11 @@ Modules
 Different types of modules
 - Internal Modules
 	fs - filesystem (read files, write files)
+	http - used for creating http servers and clients  
 
 
 - User Created Modules
 - Third Party Modules
 
 Different kind of modules importing and exporting ways - modules (uses export and import) & commonjs (uses require and export.property)
+
